@@ -11,6 +11,9 @@ Capacitado para resolver problemas a través de un enfoque creativo, basado en d
 
 🚀 Listo para nuevos desafíos y entusiasmado por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!
 
+
+___
+
 ### 💻 STACK TECNOLÓGICO:
 
 <div align="left">
@@ -47,6 +50,9 @@ Capacitado para resolver problemas a través de un enfoque creativo, basado en d
 <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="29">
 </div>
 
+
+___
+
 ### 🛠️ HERRAMIENTAS:
 
 <div align="left">
@@ -67,14 +73,20 @@ Capacitado para resolver problemas a través de un enfoque creativo, basado en d
 <img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="33" alt="meet logo"  />
 </div>
 
+
+___
+
 ### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?: 
 
-#### Te invito a visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS")!!
+#### Te invito a visitar mis [Repositorios en GitHub](https://github.com/Matias-Nardon?tab=repositories)!!
+
+
+___
 
 ### 📩 Puedes contactarme a través de LinkedIn o enviarme un correo, ¡Hablemos sobre cómo puedo agregar valor a tu equipo! <br>	
-<a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/matias-nardon/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank"
-href="mailto:florlocascio5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+href="mailto:matiasnardon96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
  
