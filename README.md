@@ -9,7 +9,7 @@ Capacitado para resolver problemas a través de un enfoque creativo, basado en d
 
 ✨ Habilidades analíticas, resolución de problemas, trabajo en equipo y comunicación efectiva, toma de decisiones basada en datos, orientación al cliente y resultados.
 
-🚀 Listo para nuevos desafíos y entusiasmado por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!
+**🚀 Listo para nuevos desafíos y entusiasmado por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!**
 
 
 ___
