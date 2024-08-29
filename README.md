@@ -13,7 +13,8 @@ Capacitado para resolver problemas a través de un enfoque creativo, basado en d
 
 💻 STACK TECNOLÓGICO:
 
-python logo  Power BI Logo  microsoftsqlserver logo  jupyter logo  pandas logo  numpy logo  Matplotlib Logo  Seaborn Logo  google cloud  big query  vscode logo  github logo excel logo  word logo  powerpoint logo  sheets logo
+(https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667) python logo  Power BI Logo  microsoftsqlserver logo  jupyter logo  pandas logo  numpy logo  Matplotlib Logo  Seaborn Logo  google cloud  big query  vscode logo  github logo excel logo  word logo  powerpoint logo  sheets logo
+
 🛠️ HERRAMIENTAS:
 
 canva logo  figma logo  trello  slack logo  drive logo  discord logo  zoom logo  meet logo
