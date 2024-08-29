@@ -13,7 +13,7 @@ Capacitado para resolver problemas a través de un enfoque creativo, basado en d
 
 💻 STACK TECNOLÓGICO:
 
-python logo  Power BI Logo  microsoftsqlserver logo  jupyter logo  pandas logo  numpy logo  Matplotlib Logo  Seaborn Logo  google cloud  big query  vscode logo  github logo excel logo  word logo  powerpoint logo  sheets logo ![servidor-sql](https://github.com/user-attachments/assets/4d46eea0-52b2-4d61-a685-6e13f9103222)
+python logo  Power BI Logo  microsoftsqlserver logo  jupyter logo  pandas logo  numpy logo  Matplotlib Logo  Seaborn Logo  google cloud  big query  vscode logo  github logo excel logo  word logo  powerpoint logo  sheets logo
 🛠️ HERRAMIENTAS:
 
 canva logo  figma logo  trello  slack logo  drive logo  discord logo  zoom logo  meet logo
