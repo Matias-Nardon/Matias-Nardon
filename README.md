@@ -48,6 +48,23 @@ ___
 <img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="powerpoint logo" width="40">
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="29">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css logo" width="40">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html logo" width="40">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript logo" width="40">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java logo" width="40">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgre logo" width="40">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman logo" width="40">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql logo" width="40">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="grafana logo" width="40">
+ 
 </div>
 
 
@@ -71,6 +88,9 @@ ___
 <img src="https://cdn.worldvectorlogo.com/logos/zoom-app.svg" height="40" alt="zoom logo"  />
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="33" alt="meet logo"  />
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail logo" width="40">
+
 </div>
 
 
