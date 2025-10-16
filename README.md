@@ -2,7 +2,8 @@
 
 ## Hola!! 👋 Soy Mati!
 
-🎓 Ing. en Software / Data Analyst / Business Intelligence / Functional Analyst. 
+🎓 Ing. en Software / Data Analyst / Data Engineer/ Data Scientist / Business Intelligence / Functional Analyst. 
+
 Capacitado para resolver problemas a través de un enfoque creativo, basado en datos y con fuerte sentido comercial. Apasionado por el proceso de análisis y diseño de soluciones efectivas para desafíos técnicos, disfruto abordando la complejidad y encontrando soluciones innovadoras que optimicen la eficiencia y la experiencia del usuario como así también la optimización y automatización de las herramientas de trabajo internas a la empresa. Excelente manejo de reuniones, blindaje de equipos y resolución de conflictos. Experiencia con manejo de clientes y en distintos rubros (Salud, Concesionario y Tecnológico).
 
 ⚡ Experiencia en diversas tecnologías para extraer, analizar, transformar, automatizar y visualizar datos en insights accionables, apoyando la toma de decisiones estratégicas, aplicando Metodologías Ágiles con Scrum.
@@ -11,6 +12,8 @@ Capacitado para resolver problemas a través de un enfoque creativo, basado en d
 
 **🚀 Listo para nuevos desafíos y entusiasmado por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!**
 
+💻 **He desarrollado mi propia página web con mi CV interactivo**, donde muestro mi perfil profesional, proyectos y experiencia de una manera visual e innovadora.  
+📄 **👉 [Visita mi página web con mi CV completo](https://matias-nardon-xeta03d.gamma.site/)**  
 
 ___
 
@@ -110,4 +113,6 @@ href="mailto:matiasnardon96@gmail.com"><img src="https://img.shields.io/badge/-G
 <br>
 </p>
  
+---
 
+> “Sin datos, solo eres otra persona con una opinión.” — *W. Edwards Deming*
